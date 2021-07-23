@@ -1,0 +1,46 @@
+.bt1 {
+	background-color:#00FFFF;
+	border: 2px solid white;
+	border-radius: 30px;
+	text-decoration: none;
+	padding: 10px 28px;
+	color: rgb(48, 5, 5);
+	 margin-top: 10px; 
+    display: inline-block;
+     /* float: right; */
+}
+
+.bt {
+	background-color:#00FFFF;
+	border: 2px solid white;
+	border-radius: 30px;
+	text-decoration: none;
+	padding: 10px 28px;
+	color: rgb(48, 5, 5);
+    margin-top: 10px;
+    display: inline-block;
+    
+}
+.btt1 {
+	background-color:#181407;
+	border: 2px solid white;
+	border-radius: 30px;
+	text-decoration: none;
+	padding: 10px 28px;
+	color: white;
+	 margin-top: 10px; 
+    display: inline-block;
+    
+}
+
+.btt {
+	background-color:#181407;
+	border: 2px solid white;
+	border-radius: 30px;
+	text-decoration: none;
+	padding: 10px 28px;
+	color: white;
+    margin-top: 10px;
+    display: inline-block;
+    
+}

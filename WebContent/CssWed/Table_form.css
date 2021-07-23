@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+table{
+    width:50%;
+}
+table ,td{
+    border:1px solid gray;
+    border-collapse: collapse;
+}
+th,td{
+    padding:7px 15px;
+}
+th{
+    background-color: #6E6E6E;
+    color: white;
+}
+td{
+    background-color: #F2F2F2;
+    color:#6E6E6E;
+}
+
+/*  tr:nth-child(even){
+    background-color: #F0F0F0;
+} */ 
+tr:hover{
+    background-color: #ddd;
+} 
